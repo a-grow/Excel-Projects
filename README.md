@@ -1,10 +1,11 @@
 # 📊 Excel Projects Portfolio
 
-Welcome! This page features a collection of my Excel-based data projects focused on dashboards, cleaning, and analysis.
-
+Welcome! This portfolio highlights two Excel-based projects:
+- A **Bike Sales Dashboard** to showcase visual reporting
+- A **NYC 311 Data Cleaning** project to demonstrate data preparation and cleanup
 ---
 
-## Bike Sales Dashboard – Excel
+## 🚴 Bike Sales Dashboard – Excel
 
 Created a dynamic Excel dashboard to visualize bike sales by region, customer demographics, and revenue trends. Used pivot tables, slicers, and charts to make insights interactive and easy to interpret.
 
@@ -18,7 +19,7 @@ Created a dynamic Excel dashboard to visualize bike sales by region, customer de
 
 ---
 
-## NYC 311 Data Cleaning – Excel (June 2025)
+## 🧼 NYC 311 Data Cleaning – Excel (June 2025)
 
 This project simulates a freelance-style task for the NYC Department of IT & Telecommunications (DoITT), focused on preparing raw 311 complaint data for analysis.
 
@@ -35,4 +36,4 @@ Tasks included:
 - [Project Brief](NYC_311_Data_Cleaning_Project_Brief.docx)
 - [Data Cleaning Summary](NYC_311_Data_Cleaning_Summary.docx)
 
-Original raw dataset sourced from [NYC Open Data](https://data.cityofnewyork.us/City-Government/311-Service-Requests-from-2025/erm2-nwe9)
+📥 Original raw dataset sourced from [NYC Open Data](https://data.cityofnewyork.us/City-Government/311-Service-Requests-from-2025/erm2-nwe9)
