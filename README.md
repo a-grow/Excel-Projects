@@ -13,7 +13,6 @@ Created a dynamic Excel dashboard to visualize bike sales by region, customer de
 1. Click the file named **"Bike_Sales_Dashboard.xlsx"**
 2. Click the **Download** button (top right) or **View raw**
 3. Open the file on your computer to see the dashboard
-4. 
 ---
 
 ## 🧼 NYC 311 Data Cleaning – Excel (June 2025)
